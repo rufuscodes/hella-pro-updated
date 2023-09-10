@@ -7,12 +7,7 @@ Description:
 
 @font-face {
     font-family: 'enamel';
-    src: url('/assetss/fonts/enamel_brush-webfont.eot');
-    src: url('/assetss/fonts/enamel_brush-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/assetss/fonts/enamel_brush-webfont.woff2') format('woff2'),
-         url('/assetss/fonts/enamel_brush-webfont.woff') format('woff'),
-         url('/assetss/fonts/enamel_brush-webfont.ttf') format('truetype'),
-         url('/assetss/fonts/enamel_brush-webfont.svg#enamel_brushregular') format('svg');
+    src: url('./assetss/fonts/enamel_brush.ttf');
     font-weight: normal;
     font-style: normal;
 }
@@ -27,8 +22,8 @@ Description:
 @font-face {
     font-family: 'orange';
     src: url('./assetss/fonts/orange_kid.otf');
-      src: url('/assetss/fonts/orange_kid-webfont.woff2') format('woff2'),
-         url('/assetss/fonts/orange_kid-webfont.woff') format('woff');
+      src: url('./assetss/fonts/orange_kid-webfont.woff2') format('woff2'),
+         url('./assetss/fonts/orange_kid-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
